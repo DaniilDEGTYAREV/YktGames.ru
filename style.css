@@ -1,0 +1,44 @@
+.flex{
+	display: flex;
+}
+.p_sky{
+	text-align: center;
+	font-size: 35px;
+	font-family: Arial;
+}
+.sky{
+
+}
+.a_sky{
+	text-decoration: none;
+	color: black;
+	font-family: Arial;
+	font-size: 30px;
+}
+.lead_photo{
+	background-image: url(crysis.jpg);
+	background-size: 1200px 600px;
+	width: 1200px;
+	height: 600px;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+.img{
+	width: 20%;
+	height: 20%;
+}
+.but_block{
+	height: 150px;
+	background: #161616;
+}
+
+.a_but_block{
+	text-decoration: none;
+	color: white;
+	font-family: Arial;
+}
+.p_but_block{
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+}
